@@ -19,3 +19,4 @@ Created this repo
 1. Followed MLH in linkedin
 2. Shared LocalHackDay in linkedin
 3. Submitted a visualization hack - India's COVID 19 dashboard using streamlit - <a href="https://github.com/SowmyaLR/covid-19-india-dashboard">Dashboard</a> - weekly challenge
+4. Submitted budget application using google sheet incorporated formula
